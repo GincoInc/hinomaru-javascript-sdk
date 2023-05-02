@@ -1,0 +1,19 @@
+{
+  "name": "@hinomaru/hinomaru-sdk",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GincoInc/hinomaru-javascript-sdk.git"
+  },
+  "author": "shuji ota",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GincoInc/hinomaru-javascript-sdk/issues"
+  },
+  "homepage": "https://github.com/GincoInc/hinomaru-javascript-sdk#readme"
+}
